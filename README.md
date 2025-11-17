@@ -1,10 +1,9 @@
 ## 👋 Oiii, eu sou Jeferson Leal, desenvolvedor de software backend focado em aplicações Java!
 
 🚀 **Resumo da Carreira**  
-Iniciei minha trajetória em 2006 na área administrativa/operacional, sendo efetivado ainda como estagiário.  
-Em 2009, migrei para a área de TI, atuando em monitoração de infraestrutura e gestão de incidentes.  
+Iniciei minha carreira em 2006 como estagiário na área administrativa/operacional, sendo efetivado nesse mesmo ano. Em 2009, surgiu uma oportunidade para atuar na área de TI, com foco em monitoração de infraestrutura e gestão de incidentes.
 
-📘 Após 11 anos nessa área, em 2020 realizei um stop/start controlado na carreira para me dedicar aos estudos e iniciar uma nova jornada em **desenvolvimento de software backend**, orientado pelas melhores práticas como **Clean Code, princípios S.O.L.I.D e Design Patterns**.  
+📘 Após 11 anos nessa área, em fevereiro de 2020 decidi realizar um Stop/Start controlado na carreira para me dedicar aos estudos e iniciar uma nova trajetória profissional. Assim, comecei a transição para a área de desenvolvimento de software, com ênfase em aplicações Java no ecossistema Spring, orientado pelas principais práticas de engenharia de software tais como: Clean Code, S.O.L.I.D, Design Patterns, DDD, TDD.**.  
 
 🙋🏻‍♂️ **Hoje** faço parte de um time de engenharia, atuando em projetos de alta complexidade e escalabilidade.
 
