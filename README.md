@@ -1,4 +1,4 @@
-## 👋 Oiii, eu sou Jeferson Leal, desenvolvedor de software backend focado em aplicações Java no ecossistema Spring!
+## 👋 Oi, eu sou Jeferson Leal, desenvolvedor de software backend focado em aplicações Java no ecossistema Spring!
 
 🚀 **Resumo da Carreira**  
 Iniciei minha carreira em 2006 como estagiário na área administrativa/operacional, sendo efetivado nesse mesmo ano. Em 2009, surgiu uma oportunidade para atuar na área de TI, com foco em monitoração de infraestrutura e gestão de incidentes.
