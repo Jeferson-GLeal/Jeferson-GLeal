@@ -5,26 +5,20 @@ Iniciei minha carreira em 2006 como estagiário na área administrativa/operacio
 
 📘 Após 11 anos nessa área, em fevereiro de 2020 decidi realizar um Stop/Start controlado na carreira para me dedicar aos estudos e iniciar uma nova trajetória profissional. Assim, comecei a transição para a área de desenvolvimento de software, com ênfase em aplicações Java integradas ao ecossistema Spring, orientado pelas principais práticas de engenharia de software, como Clean Code, S.O.L.I.D, Design Patterns, DDD, TDD e CI/CD.
 
-🙋🏻‍♂️ **Hoje** faço parte de um time de engenharia, atuando em projetos de alta complexidade e escalabilidade.
+🙋🏻‍♂️ **Hoje** faço parte de um time de engenharia, atuando no:
 
-
----
-
-<div style="display: inline_block"><br>
-  <img alt="Git" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /> 
-  <img alt="Flutter" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> 
-  <img alt="Java" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
-  <img alt="JUnit" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" /> 
-  <img alt="Spring" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
-  <img alt="Postman" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> 
-  <img alt="MySQL" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
-  <img alt="MongoDB" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /> 
-  <img alt="Azure DevOps" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /> 
-  <img alt="Jenkins" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" /> 
-  <img alt="Docker" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> 
-  <img alt="Kubernetes" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" /> 
-  <img alt="AWS" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
-</div>
+💻 Desenvolvimento de aplicações backend
+🗄️ Modelagem e implementação de camadas de persistência de dados
+🛠️ Criação e integração de APIs para comunicação síncrona e assíncrona
+🧪 Elaboração e manutenção de testes automatizados (unitários, integração e contrato)
+🛢️ Experiência com Bancos de dados SQL e NoSQL
+🐳 Containerização e orquestração de ambientes distribuídos
+🔁 Automação de pipelines CI/CD em ambientes DevOps
+☁️ Serviços em nuvem (AWS: EC2, S3, RDS, Lambda, API Gateway)
+📊 Observabilidade e monitoramento de sistemas distribuídos (logs, métricas, tracing, dashboards)
+🧠 Arquiteturas modernas (Clean, Hexagonal, Microservices, Event-Driven), promovendo código desacoplado e testável
+📄 Documentação de sistemas, APIs e arquiteturas, assegurando clareza e colaboração
+🤝 Colaboração com equipes multidisciplinares em ambientes ágeis (Scrum e Kanban)
 
 ##
 
