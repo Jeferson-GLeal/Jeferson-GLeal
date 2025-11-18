@@ -23,6 +23,6 @@ Iniciei minha carreira em 2006 como estagiário na área administrativa/operacio
 ##
 
 📬 **Contato**  
-- [LinkedIn](https://www.linkedin.com/in/jeferson-leal)
-- [Email](mailto:jeferson.gleal@outlook.com)
-- [Mobile](phone:+551197023-7409)
+- LinkedIn: https://www.linkedin.com/in/jeferson-leal
+- Email: jeferson.gleal@outlook.com
+- Phone: +55 11 97023-7409
