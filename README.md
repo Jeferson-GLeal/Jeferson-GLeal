@@ -5,7 +5,7 @@ Iniciei minha carreira em 2006 como estagiário na área administrativa/operacio
 
 📘 Após 11 anos nessa área, em fevereiro de 2020 decidi realizar um Stop/Start controlado na carreira para me dedicar aos estudos e iniciar uma nova trajetória profissional. Assim, comecei a transição para a área de desenvolvimento de software, com ênfase em aplicações Java integradas ao ecossistema Spring, orientado pelas principais práticas de engenharia de software, como Clean Code, S.O.L.I.D, Design Patterns, DDD, TDD e CI/CD.
 
-🙋🏻‍♂️ **Hoje** faço parte de um time de engenharia, atuando no:  
+🙋🏻‍♂️ **Hoje** faço parte do time de engenharia, atuando no:  
 
 💻 Desenvolvimento de aplicações backend  
 🗄️ Modelagem e implementação de camadas de persistência de dados  
