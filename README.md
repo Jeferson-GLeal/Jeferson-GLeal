@@ -20,5 +20,5 @@
 - 🤝 **Colaboração com equipes multidisciplinares em ambientes ágeis (Scrum e Kanban)**
 
 ## 📬 Contato  
-- **LinkedIn:** linkedin.com/in/jeferson-leal  
+- **LinkedIn:** [linkedin.com/in/jeferson-leal]  
 - **Email:** jeferson.gleal@outlook.com
