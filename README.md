@@ -17,6 +17,7 @@ Na construção de soluções, aplico padrões arquiteturais como Layered, Hexag
 🧪 Tests: JUnit, Mockito, Testcontainers
 
 🗄️ Databases & Caching: SQL (MySQL, PostgreSQL) / NoSQL (MongoDB, Cassandra, DynamoDB), Redis
+📨 APIs & Integração: REST APIs, GraphQL, gRPC
 
 📨 Messaging & Streaming: RabbitMQ, Apache Kafka, AWS SQS/SNS
 
