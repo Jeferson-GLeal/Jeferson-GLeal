@@ -10,56 +10,48 @@ Atualmente, atuo como Engenheiro de Software Backend, focado no desenvolvimento 
 
 Na construção de soluções, aplico padrões arquiteturais como Layered, Hexagonal e Clean Architecture, além de mensageria assíncrona, garantindo sistemas escaláveis, limpos e altamente testáveis orientados a eventos.
 
-## 💻 Stack & Tecnologias
+## 💻 Stack & Competências
 
-🛠️ Languages & Frameworks: Java 17+, Spring (Boot, Data, Web, Cloud)
+### 🏗️ System Design & Distributed Systems
+- **Architectural Styles:** Microservices, Event-Driven Architecture (EDA)
+- **Distributed Data Patterns:** Transactional Outbox, Saga Pattern, Idempotency
+- **Resilience & Fault Tolerance:** Retry, Circuit Breaker, Timeout, Fallback
 
-🧪 Tests: JUnit, Mockito, Testcontainers
+### 🧭 Domain Modeling
+- **Domain-Driven Design:** DDD — conceitos táticos
 
-🗄️ Databases & Caching: SQL (MySQL, PostgreSQL) / NoSQL (MongoDB, Cassandra, DynamoDB), Redis
+### 🧠 Software Design & Application Architecture
+- **Design Principles:** SOLID, KISS, DRY, YAGNI
+- **Design Patterns:** Strategy, Factory, Builder
+- **Architecture Patterns:** Layered, Hexagonal (Ports & Adapters), Clean Architecture, CQRS
 
-📨 APIs & Integração: REST APIs, GraphQL, gRPC
+### 🗄️ Data & Persistence
+- **Databases & Caching:** SQL (MySQL, PostgreSQL); NoSQL (MongoDB, Cassandra, DynamoDB); Redis
 
-📨 Messaging & Streaming: RabbitMQ, Apache Kafka, AWS SQS/SNS
+### 🔌 APIs, Integration & Messaging
+- **API Design:** REST, GraphQL, gRPC
+- **Integration:** Synchronous and asynchronous communication
+- **Messaging & Streaming:** RabbitMQ, Apache Kafka, AWS SQS/SNS
 
-📦 Containers & Orchestration: Docker, Kubernetes (EKS)
+### ☁️ Infrastructure, Cloud & Platform
+- **Cloud:** AWS (EC2, S3, RDS, Lambda)
+- **Containers & Orchestration:** Docker, Kubernetes (EKS)
+- **Scalability:** Horizontal scaling, load balancing
 
-🔄 CI/CD (Automation): Jenkins, Azure DevOps, GitHub Actions
+### ⌨️ Implementation Stack
+- **Languages & Frameworks:** Java 17+, Spring Boot, Spring Data, Spring Web, Spring Cloud
 
-☁️ Cloud (AWS): EC2, S3, RDS, Lambda
+### 🧪 Quality Engineering
+- **Testing:** JUnit, Mockito, Testcontainers
+- **Code Quality:** Testability, maintainability, readability
+- **Review:** Code review
 
-🔀 Versioning & Code Quality: Git, Code Review
-
-📑 Agile Methodologies: Scrum, Kanban
-
-## 🧠 Software Design
-
-🔹 Design Principles: SOLID, KISS, DRY, YAGNI
-
-🔹 Design Patterns: Strategy, Factory, Builder
-
-🔹 Architecture Patterns: Layered, Hexagonal (Ports & Adapters), Clean Architecture, CQRS
-
-🔹 Domain-Driven Design: DDD (Conceitos Táticos)
-
-🔹 Code Quality Practices: Testabilidade, Manutenibilidade, Legibilidade
-
-## 🏗️ System Design & Distributed Systems
-
-🔹 Architectural Styles: Microservices, Event-Driven Architecture (EDA)
-
-🔹 API Design & Integration: RESTful APIs, Synchronous & Asynchronous Integration
-
-🔹 Distributed Data Patterns: Transactional Outbox, Saga Pattern, Idempotency
-
-🔹 Resilience & Fault Tolerance: Retry, Circuit Breaker, Timeout, Fallback
-
-🔹 Observability: Distributed Tracing, Logs, Metrics, APM Monitoring
-
-🔹 Infrastructure & Scalability: Horizontal Scaling, Load Balancing
-
-🔹 Operations & Maintenance: Troubleshooting & Production Diagnostics
-
+### 🚀 Delivery & Operations
+- **Version Control:** Git, GitHub
+- **CI/CD:** Jenkins, Azure DevOps, GitHub Actions
+- **Observability:** Distributed tracing, logs, metrics, APM
+- **Operations:** Troubleshooting, production diagnostics
+- **Agile:** Scrum, Kanban
 ## 📬 Contato
 
 - LinkedIn: linkedin.com/in/jeferson-leal
