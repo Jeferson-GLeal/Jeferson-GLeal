@@ -2,13 +2,11 @@
 
 🚀 Sobre mim
 
-Iniciei minha carreira em 2006 no setor administrativo/operacional e, em 2009, migrei para TI, atuando em monitoração de infraestrutura e gestão de incidentes — experiência que me proporcionou uma base sólida em operação e disponibilidade de sistemas.
-
 Após 10 anos, em fevereiro de 2020, realizei um Stop/Start controlado na carreira para me dedicar aos estudos e iniciar uma nova trajetória profissional. Desde então, venho construindo minha transição para a área de desenvolvimento de software, com ênfase em aplicações Java integradas ao ecossistema Spring, orientadas pelas principais práticas de engenharia.
 
-Atualmente, atuo como Engenheiro de Software Backend, focado no desenvolvimento de sistemas distribuídos e microsserviços de alta disponibilidade sob o ecossistema Java/Spring e AWS. Integro ferramentas de Inteligência Artificial como copiloto no meu fluxo diário para otimizar eficiência e qualidade das entregas.
+Atualmente, direciono minha evolução profissional para a interseção entre Engenharia de Backend e Inteligência Artificial, combinando o rigor da engenharia de software com práticas modernas de desenvolvimento assistido por IA, explorando abordagens como Agentic Engineering, Context Engineering e Harness Engineering, além de arquiteturas baseadas em LLMs, RAG e MCP.
 
-Na construção de soluções, aplico padrões arquiteturais como Layered, Hexagonal e Clean Architecture, além de mensageria assíncrona, garantindo sistemas escaláveis, limpos e altamente testáveis orientados a eventos.
+Acredito que o verdadeiro potencial da Inteligência Artificial está na capacidade de integrá-la ao ciclo de engenharia de software e aos sistemas corporativos, garantindo qualidade, governança, observabilidade e confiabilidade e resiliência em produção.
 
 ## 💻 Stack & Competências
 
